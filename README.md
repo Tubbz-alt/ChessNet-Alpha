@@ -1,5 +1,5 @@
 # ChessNet-Alpha
-An chess AI which uses stochastic descent through a GANS architecture.
+A chess AI which uses stochastic descent through a GANS architecture.
 
 This code IS NOT well documented, if people care to read/use it, then I will do so.
 
