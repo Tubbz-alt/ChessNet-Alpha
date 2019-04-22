@@ -8,6 +8,4 @@ the same must be done for the "Path", but this one for your "Pieces" file path.
 This on line 13 & 12, respectively, of the "Data" class.
 
 
-
-
 Yeah... the name is terrible. I'll fix that soon enough
